@@ -10,13 +10,11 @@
 
 👉 **[打开网站 riyouhuixiang.com](https://riyouhuixiang.com)**（手机、电脑都能用，可添加到桌面，免费）
 
-<a href="https://riyouhuixiang.com"><img src="https://raw.githubusercontent.com/krissylew0809-creator/riyouhuixiang/main/docs/screenshots/calendar-desktop.jpg" width="640" alt="日有回响"></a>
-
 - 🌙 动态安全线：每天最低投入量，一眼看到自己在线上还是线下
 - 📅 日历 + 任务池：拖到日历就安排，拖回来就撤回
 - 📖 回响之书：把每一周划掉的事，装订成一本周记
 - 🧋 奶茶对局：和朋友守住安全线七天，输的人请奶茶
 
-[查看项目 →](https://github.com/krissylew0809-creator/riyouhuixiang)
+[打开日有回响 →](https://riyouhuixiang.com)
 
 📮 想聊聊、遇到问题或有想法：krissylew0809@gmail.com
